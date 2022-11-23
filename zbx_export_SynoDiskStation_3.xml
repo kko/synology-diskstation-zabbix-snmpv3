@@ -3506,7 +3506,7 @@ Canceling(10)</description>
             </macros>
             <templates>
                 <template>
-                    <name>Template Module ICMP Ping</name>
+                    <name>ICMP Ping</name>
                 </template>
             </templates>
             <screens/>
